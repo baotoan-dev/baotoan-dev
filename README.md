@@ -2,6 +2,8 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
+![Mô tả hình ảnh](https://gratisography.com/wp-content/uploads/2024/03/gratisography-funflower-800x525.jpg) 
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
