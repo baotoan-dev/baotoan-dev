@@ -1,63 +1,70 @@
-# Hi, I'm Huynh Bao Toan! 👋
+# 👋 Hi, I’m **Huynh Bao Toan**
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+M.Tech (Computer Science) student @ **IIT Kharagpur**.  
+I love turning complex tech ideas into clear, story-driven articles and side-projects.
 
-![Mô tả hình ảnh](https://gratisography.com/wp-content/uploads/2024/03/gratisography-funflower-800x525.jpg) 
+<p align="center">
+  <img src="https://gratisography.com/wp-content/uploads/2024/03/gratisography-funflower-800x525.jpg" width="500" alt="Sunflower on keyboard – because code should be fun 🌻">
+</p>
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+## 🚀 What I’m Up To
 
-## My Articles
-<details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+| | |
+|---|---|
+| 🎓 **Research & Coursework** | Distributed systems, cloud-native design, and everything in-between. |
+| ✍️ **Writing** | Long-form tutorials on **[theenthusiast.dev](https://theenthusiast.dev)** – 20 000+ reads in 2 months. |
+| 📰 **Community** | HackerNoon Blogging Fellow & soon-to-be contributor at **freeCodeCamp**. |
 
-  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
-  - Implemented features to notify users about new opportunities.
-  - Achieved a user base of X, surpassing initial projections.
-</details>
+---
 
+## 🛠 Tech I Reach For
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,docker,aws,react,next,python,java,nodejs,mongodb,express,kafka,rabbitmq,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind,nodejs,express,python,django,java,docker,aws,mongodb,postgres,kafka,rabbitmq)](https://skillicons.dev)
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- **Full-Stack Web**  
+  • Modern React (Hooks, Redux Toolkit)  
+  • Tailwind CSS for instant styling  
+  • Django + PostgreSQL on the back-end  
+- **Message Brokers** – Kafka & RabbitMQ patterns  
+- **DevOps** – containerising everything that moves  
 
- ## 🏆 Achievements
+---
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## 🏆 Recent Highlights
 
+| Year | Milestone |
+|------|-----------|
+| 2023 | ✅ Completed **Hacktoberfest** – four meaningful OSS PRs. |
+| 2024 | 🚀 Scaled my blog to 20 k+ views; featured on HackerNoon front-page. |
 
-## 📬 Get in Touch
+---
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+## 🗂 Featured Projects
+<details>
+  <summary>Click to expand</summary>
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+### 📌 **Job-Radar**  
+Stack: Node.js · MongoDB · RabbitMQ  
+* Notifies devs in real-time when new openings match their profile.  
+* Surpassed first-month user target by **3×**.
 
+<!-- Add more projects in the same pattern -->
+</details>
 
+---
 
-<!--
+## 📬 Let’s Connect
 
-Here are some ideas to get you started:
+| | |
+|---|---|
+| 🐦 **Twitter** | [@introvertedbot](https://twitter.com/introvertedbot) |
+| 🌐 **Blog** | [theenthusiast.dev](https://theenthusiast.dev) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *“Code is the paint; writing is the gallery.”* – Let’s keep building & learning together!
+
