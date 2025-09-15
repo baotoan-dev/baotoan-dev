@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Bao Toan!
 
-Welcome to my GitHub profile! I’m a passionate software developer with expertise in creating robust, scalable, and efficient solutions. I thrive on tackling complex challenges and turning innovative ideas into reality.
+Welcome to my GitHub profile! I’m a passionate **Fullstack Engineer** with expertise in building dynamic, user-friendly applications and scalable backend systems. I thrive on delivering end-to-end solutions that seamlessly bridge the gap between user experience and technical efficiency.
 
 ---
 
@@ -17,17 +17,18 @@ Here are some of my noteworthy repositories that showcase my skills and interest
 
 ## 🛠️ Tech Stack
 
-I specialize in a broad range of technologies to deliver high-quality solutions:
+I specialize in a diverse range of technologies to deliver high-quality full-stack solutions:
 
-- **Languages**: Python, JavaScript, Java, Go
-- **Frameworks**: React, Node.js, Flask, Spring Boot
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud Services**: AWS, Google Cloud, Azure
+- **Frontend**: React, Angular, HTML5, CSS3, TailwindCSS, Bootstrap
+- **Backend**: Node.js, Express.js, Flask, Spring Boot
+- **Languages**: JavaScript, TypeScript, Python, Java
 - **Databases**: MySQL, PostgreSQL, MongoDB
+- **Version Control**: Git, GitHub
+- **Other Tools**: RESTful APIs, WebSockets, GraphQL, JWT Authentication
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Bao Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=baotoan-dev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baotoan-dev&layout=compact&theme=radical)
@@ -49,10 +50,10 @@ I specialize in a broad range of technologies to deliver high-quality solutions:
 
 ## 👨‍💻 About Me
 
-🔭 I’m currently working on building scalable systems and improving DevOps pipelines.  
-🌱 I’m always exploring new technologies and methodologies to enhance development processes.  
-👯 I’m open to collaborating on open-source projects or innovative ideas.  
-⚡ Fun fact: I'm a huge fan of optimizing workflows and automating repetitive tasks.
+🔭 I’m currently working on developing engaging user interfaces and scalable backend systems.  
+🌱 I’m always exploring new frameworks, libraries, and tools to enhance my full-stack development skills.  
+👯 I’m open to collaborating on innovative full-stack projects or open-source contributions.  
+⚡ Fun fact: I enjoy solving complex problems and turning ideas into reality through code.
 
 ---
 
@@ -64,4 +65,4 @@ Feel free to get in touch with me via email:
 
 ---
 
-Thank you for visiting my profile! 🚀 Let's create something amazing together!
+Thank you for visiting my profile! 🚀 Let’s create something amazing together!
