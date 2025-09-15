@@ -1,70 +1,44 @@
-# 👋 Hi, I’m **Huynh Bao Toan**
+# 👋 Hi there, I'm Bao Toan!
 
-M.Tech (Computer Science) student @ **IIT Kharagpur**.  
-I love turning complex tech ideas into clear, story-driven articles and side-projects.
-
-<p align="center">
-  <img src="https://gratisography.com/wp-content/uploads/2024/03/gratisography-funflower-800x525.jpg" width="500" alt="Sunflower on keyboard – because code should be fun 🌻">
-</p>
+Welcome to my GitHub profile! I'm an enthusiastic developer passionate about building innovative solutions and exploring the latest technologies. My repositories showcase a range of projects, from demo applications to automation tools.
 
 ---
 
-## 🚀 What I’m Up To
+## 🌟 Featured Repositories
 
-| | |
-|---|---|
-| 🎓 **Research & Coursework** | Distributed systems, cloud-native design, and everything in-between. |
-| ✍️ **Writing** | Long-form tutorials on **[theenthusiast.dev](https://theenthusiast.dev)** – 20 000+ reads in 2 months. |
-| 📰 **Community** | HackerNoon Blogging Fellow & soon-to-be contributor at **freeCodeCamp**. |
-
----
-
-## 🛠 Tech I Reach For
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind,nodejs,express,python,django,java,docker,aws,mongodb,postgres,kafka,rabbitmq)](https://skillicons.dev)
+- [**Stream Demo**](https://github.com/baotoan-dev/stream-demo): A project demonstrating streaming capabilities.
+- [**Jenkins Demo**](https://github.com/baotoan-dev/jenkins_demo): Automating CI/CD pipelines with Jenkins.
+- [**Telegram Webhook Demo**](https://github.com/baotoan-dev/demo-webhook-telegram): A webhook integration example for Telegram.
+- [**Food Manager**](https://github.com/baotoan-dev/Food_Manager): A repository to manage food inventory efficiently.
 
 ---
 
-## 🌱 Currently Exploring
+## 🚀 About Me
 
-- **Full-Stack Web**  
-  • Modern React (Hooks, Redux Toolkit)  
-  • Tailwind CSS for instant styling  
-  • Django + PostgreSQL on the back-end  
-- **Message Brokers** – Kafka & RabbitMQ patterns  
-- **DevOps** – containerising everything that moves  
+🔭 I’m currently working on ...  
+🌱 I’m learning ...  
+👯 I’m looking to collaborate on ...  
+🤔 I’m looking for help with ...  
 
 ---
 
-## 🏆 Recent Highlights
+## 🛠️ Tech Stack
 
-| Year | Milestone |
-|------|-----------|
-| 2023 | ✅ Completed **Hacktoberfest** – four meaningful OSS PRs. |
-| 2024 | 🚀 Scaled my blog to 20 k+ views; featured on HackerNoon front-page. |
-
----
-
-## 🗂 Featured Projects
-<details>
-  <summary>Click to expand</summary>
-
-### 📌 **Job-Radar**  
-Stack: Node.js · MongoDB · RabbitMQ  
-* Notifies devs in real-time when new openings match their profile.  
-* Surpassed first-month user target by **3×**.
-
-<!-- Add more projects in the same pattern -->
-</details>
+- **Languages**: _Add your top programming languages here_
+- **Frameworks**: _Add frameworks you're proficient in_
+- **Tools**: _Add tools or software you frequently use_
+- **Cloud / DevOps**: _Add cloud services or DevOps skills_
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
-| | |
-|---|---|
-| 🐦 **Twitter** | [@introvertedbot](https://twitter.com/introvertedbot) |
-| 🌐 **Blog** | [theenthusiast.dev](https://theenthusiast.dev) |
+- **Portfolio**: _Add your portfolio link here_
+- **LinkedIn**: _Add your LinkedIn URL here_
+- **Twitter**: _Add your Twitter handle here_
 
-> *“Code is the paint; writing is the gallery.”* – Let’s keep building & learning together!
+---
 
+## 📊 GitHub Stats
+
+![Bao Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=baotoan-dev&show_icons=true&theme=radical)
